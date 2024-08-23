@@ -1,0 +1,68 @@
+[
+    {
+      "_id": "60c72b2f9b1e8a3c8e4f1a2b",
+      "roomType": "Single Room",
+      "service": ["Free WiFi", "Air Conditioning", "Room Service"],
+      "bed": 1,
+      "roomTitle": "Cozy Single Room",
+      "price": 50,
+      "image": "single_room.jpg",
+      "available": true,
+      "roomSize": "15 sqm",
+      "guests": 1,
+      "description": "A cozy room perfect for solo travelers. Features a single bed, free WiFi, and air conditioning."
+    },
+    {
+      "_id": "60c72b2f9b1e8a3c8e4f1a2c",
+      "roomType": "Double Room",
+      "service": ["Free WiFi", "Air Conditioning", "Breakfast Included"],
+      "bed": 1,
+      "roomTitle": "Comfortable Double Room",
+      "price": 80,
+      "image": "double_room.jpg",
+      "available": true,
+      "roomSize": "20 sqm",
+      "guests": 2,
+      "description": "A comfortable double room with a queen-sized bed, free WiFi, and breakfast included."
+    },
+    {
+      "_id": "60c72b2f9b1e8a3c8e4f1a2d",
+      "roomType": "Suite",
+      "service": ["Free WiFi", "Air Conditioning", "Room Service", "Mini Bar"],
+      "bed": 1,
+      "roomTitle": "Luxury Suite",
+      "price": 150,
+      "image": "suite.jpg",
+      "available": false,
+      "roomSize": "35 sqm",
+      "guests": 2,
+      "description": "A luxurious suite with a separate living area, king-sized bed, mini bar, and room service."
+    },
+    {
+      "_id": "60c72b2f9b1e8a3c8e4f1a2e",
+      "roomType": "Family Suite",
+      "service": ["Free WiFi", "Air Conditioning", "Breakfast Included", "Room Service"],
+      "bed": 2,
+      "roomTitle": "Spacious Family Suite",
+      "price": 200,
+      "image": "family_suite.jpg",
+      "available": true,
+      "roomSize": "50 sqm",
+      "guests": 4,
+      "description": "A spacious family suite with two bedrooms, free WiFi, air conditioning, and breakfast included."
+    },
+    {
+      "_id": "60c72b2f9b1e8a3c8e4f1a2f",
+      "roomType": "Deluxe Room",
+      "service": ["Free WiFi", "Air Conditioning", "Room Service", "Gym Access"],
+      "bed": 1,
+      "roomTitle": "Deluxe Room with City View",
+      "price": 100,
+      "image": "deluxe_room.jpg",
+      "available": true,
+      "roomSize": "25 sqm",
+      "guests": 2,
+      "description": "A deluxe room with a stunning city view, featuring a king-sized bed, free WiFi, and gym access."
+    }
+  ]
+  
